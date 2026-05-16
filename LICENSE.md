@@ -1,4 +1,4 @@
-
+PrivateVPN new Client: obfuscation & streaming-optimization is the best PrivateVPN client, featuring obfuscation and streaming-optimization. Secure, fast, and optimized for
 
 
 
